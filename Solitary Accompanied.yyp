@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_MainPlayerController","path":"objects/obj_MainPlayerController/obj_MainPlayerController.yy",},"order":3,},
     {"id":{"name":"font_SognarakSmall","path":"fonts/font_SognarakSmall/font_SognarakSmall.yy",},"order":0,},
     {"id":{"name":"obj_PlayerParent","path":"objects/obj_PlayerParent/obj_PlayerParent.yy",},"order":2,},
     {"id":{"name":"room_EndScreen","path":"rooms/room_EndScreen/room_EndScreen.yy",},"order":3,},
@@ -13,6 +14,7 @@
     {"id":{"name":"room_MainMenu","path":"rooms/room_MainMenu/room_MainMenu.yy",},"order":1,},
     {"id":{"name":"obj_MenuButtonQuit","path":"objects/obj_MenuButtonQuit/obj_MenuButtonQuit.yy",},"order":4,},
     {"id":{"name":"obj_MainMenuStarter","path":"objects/obj_MainMenuStarter/obj_MainMenuStarter.yy",},"order":0,},
+    {"id":{"name":"obj_PlayerFollowingObject","path":"objects/obj_PlayerFollowingObject/obj_PlayerFollowingObject.yy",},"order":4,},
     {"id":{"name":"obj_MenuButtonParent","path":"objects/obj_MenuButtonParent/obj_MenuButtonParent.yy",},"order":0,},
     {"id":{"name":"room_Game","path":"rooms/room_Game/room_Game.yy",},"order":2,},
     {"id":{"name":"spr_MainMenuButton","path":"sprites/spr_MainMenuButton/spr_MainMenuButton.yy",},"order":0,},

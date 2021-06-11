@@ -2,8 +2,10 @@
   "resources": [
     {"id":{"name":"obj_MainPlayerController","path":"objects/obj_MainPlayerController/obj_MainPlayerController.yy",},"order":3,},
     {"id":{"name":"spr_BgSplash","path":"sprites/spr_BgSplash/spr_BgSplash.yy",},"order":0,},
+    {"id":{"name":"spr_WomanWalking","path":"sprites/spr_WomanWalking/spr_WomanWalking.yy",},"order":3,},
     {"id":{"name":"spr_SplashDzejPiLogo","path":"sprites/spr_SplashDzejPiLogo/spr_SplashDzejPiLogo.yy",},"order":1,},
     {"id":{"name":"font_SognarakSmall","path":"fonts/font_SognarakSmall/font_SognarakSmall.yy",},"order":0,},
+    {"id":{"name":"spr_WomanIdle","path":"sprites/spr_WomanIdle/spr_WomanIdle.yy",},"order":2,},
     {"id":{"name":"obj_PlayerParent","path":"objects/obj_PlayerParent/obj_PlayerParent.yy",},"order":2,},
     {"id":{"name":"room_EndScreen","path":"rooms/room_EndScreen/room_EndScreen.yy",},"order":3,},
     {"id":{"name":"room_Intro","path":"rooms/room_Intro/room_Intro.yy",},"order":4,},

@@ -3,5 +3,9 @@ event_inherited();
 
 if isPressed = true
 {
-	room_goto(room_Intro);
+	// Uncomment once intro is finished
+	//room_goto(room_Intro);
+	
+	// Delete when intro is ifnished
+	room_goto(room_Game);
 }

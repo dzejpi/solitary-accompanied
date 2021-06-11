@@ -1,4 +1,12 @@
 /// @description Draw properly
+// Make the button appear at the beginning
+if alphaImage < 1
+{
+	alphaImage += transitionSpeed;
+}
+
+draw_set_alpha(alphaImage);
+
 // Font is off by 1px in HTML5 for some reason
 fontIndentation = -1;
 
@@ -29,3 +37,5 @@ draw_text(x + 1, y + 1, buttonText);
 // Button text
 draw_set_colour(buttonTextColor);
 draw_text(x, y, buttonText);
+
+draw_set_alpha(1);

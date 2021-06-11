@@ -16,3 +16,7 @@ image_index = 0;
 
 // Cheap trick to avoid double clicking
 doubleClickPrevention = 0;
+
+// Appearance at the beginning, looks cool
+alphaImage = 0;
+transitionSpeed = 0.05;

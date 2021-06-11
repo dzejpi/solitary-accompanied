@@ -1,3 +1,8 @@
 /// @description Start the splash screen
 instance_create_depth(0, 0, 0, obj_WindowSizeHandler);
-room_goto(room_MainMenu);
+
+displayingSplash = true;
+displayedSplash = false;
+alphaImage = 0.00;
+
+splashSpeed = 0.01;

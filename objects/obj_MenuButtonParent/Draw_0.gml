@@ -1,6 +1,6 @@
 /// @description Draw properly
-// Font is off by 2px for some reason
-fontIndentation = 2;
+// Font is off by 1px in HTML5 for some reason
+fontIndentation = -1;
 
 // Draw as selected if mouse is hovering above or the button is selected
 if canBeSelected

@@ -8,6 +8,8 @@
     {"id":{"name":"obj_PlayerWoman","path":"objects/obj_PlayerWoman/obj_PlayerWoman.yy",},"order":1,},
     {"id":{"name":"font_SognarakMenu","path":"fonts/font_SognarakMenu/font_SognarakMenu.yy",},"order":1,},
     {"id":{"name":"obj_MenuButtonStart","path":"objects/obj_MenuButtonStart/obj_MenuButtonStart.yy",},"order":1,},
+    {"id":{"name":"obj_SplashScreenStarter","path":"objects/obj_SplashScreenStarter/obj_SplashScreenStarter.yy",},"order":0,},
+    {"id":{"name":"obj_WindowSizeHandler","path":"objects/obj_WindowSizeHandler/obj_WindowSizeHandler.yy",},"order":2,},
     {"id":{"name":"room_MainMenu","path":"rooms/room_MainMenu/room_MainMenu.yy",},"order":1,},
     {"id":{"name":"obj_MenuButtonQuit","path":"objects/obj_MenuButtonQuit/obj_MenuButtonQuit.yy",},"order":4,},
     {"id":{"name":"obj_MainMenuStarter","path":"objects/obj_MainMenuStarter/obj_MainMenuStarter.yy",},"order":0,},
@@ -33,9 +35,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_SplashScreen","path":"rooms/room_SplashScreen/room_SplashScreen.yy",},},
     {"roomId":{"name":"room_MainMenu","path":"rooms/room_MainMenu/room_MainMenu.yy",},},
     {"roomId":{"name":"room_Game","path":"rooms/room_Game/room_Game.yy",},},
-    {"roomId":{"name":"room_SplashScreen","path":"rooms/room_SplashScreen/room_SplashScreen.yy",},},
     {"roomId":{"name":"room_EndScreen","path":"rooms/room_EndScreen/room_EndScreen.yy",},},
     {"roomId":{"name":"room_Intro","path":"rooms/room_Intro/room_Intro.yy",},},
   ],
@@ -59,6 +61,7 @@
     {"folderPath":"folders/Sprites/Menu Sprites.yy","order":1,"resourceVersion":"1.0","name":"Menu Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Room Starters.yy","order":3,"resourceVersion":"1.0","name":"Room Starters","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Room Starters/Main Menu.yy","order":1,"resourceVersion":"1.0","name":"Main Menu","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Room Starters/Splash Screen.yy","order":3,"resourceVersion":"1.0","name":"Splash Screen","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

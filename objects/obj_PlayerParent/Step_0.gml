@@ -1,13 +1,19 @@
 /// @description Control behavior
 if isControllable
 {
-	if (keyboard_check_pressed(vk_left) || keyboard_check_pressed(ord("A")))
+	if (keyboard_check(vk_left) || keyboard_check(ord("A")))
 	{
-		
-	}
-	
-	if (keyboard_check_pressed(vk_right) || keyboard_check_pressed(ord("D")))
+		image_xscale = -1;
+		sprite_index = walkAnimation;
+		hspeed = walkingSpeed * -1;
+	} else if (keyboard_check(vk_right) || keyboard_check(ord("D")))
 	{
-		
+		image_xscale = 1;
+		sprite_index = walkAnimation;
+		hspeed = walkingSpeed;
+	} else
+	{
+		sprite_index = idleAnimation;
+		hspeed = 0;
 	}
 }

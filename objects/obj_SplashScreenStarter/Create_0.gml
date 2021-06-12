@@ -5,4 +5,4 @@ displayingSplash = true;
 displayedSplash = false;
 alphaImage = 0.00;
 
-splashSpeed = 0.01;
+splashSpeed = 0.5;

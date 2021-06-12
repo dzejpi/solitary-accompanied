@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_WalkingGroundFill",
-    "path": "sprites/spr_WalkingGroundFill/spr_WalkingGroundFill.yy",
+    "name": "spr_WalkingGroundFillTwo",
+    "path": "sprites/spr_WalkingGroundFillTwo/spr_WalkingGroundFillTwo.yy",
   },
   "solid": true,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Game Group/Environment/Grounds/Fills.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_WalkingGroundFill",
+  "name": "obj_WalkingGroundFillTwo",
   "tags": [],
   "resourceType": "GMObject",
 }

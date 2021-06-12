@@ -6,7 +6,18 @@ if place_meeting(x, y, obj_PlayerParent)
 	
 	if keyboard_check(vk_space)
 	{
-		
+		beingEaten = true;
+	}
+}
+
+if beingEaten
+{
+	if eatingCountdown > 0
+	{
+		eatingCountdown -= 1;
+	} else
+	{
+		instance_destroy();
 	}
 }
 

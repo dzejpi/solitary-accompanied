@@ -41,9 +41,49 @@ if position_meeting(x, y, obj_DrinkableObjectParent)
 	}
 } 
 
+if place_meeting(x, y, obj_FruitParent)
+{
+	if keyboard_check(vk_space)
+	{
+		if place_meeting(x, y, obj_FruitDate)
+		{
+			isControllable = false;
+			currentlyEating = true;
+			thirstLevel += obj_FruitDate.water;
+			sanityLevel += obj_FruitDate.sanity;
+		}
+		
+		if place_meeting(x, y, obj_FruitOpuntia)
+		{
+			isControllable = false;
+			currentlyEating = true;
+			thirstLevel += obj_FruitOpuntia.water;
+			sanityLevel += obj_FruitOpuntia.sanity;
+		}
+	}
+}
+
+if currentlyEating
+{
+	sprite_index = eatingAnimation;
+	hspeed = 0;
+	
+	if eatingTime > 0
+	{
+		eatingTime -= 1;
+	} else
+	{
+		eatingTime = 40;
+		currentlyEating = false;
+		isControllable = true;
+		sprite_index = idleAnimation;
+	}
+}
+
 if currentlyDrinking
 {
 	sprite_index = drinkAnimation;
+	hspeed = 0;
 	
 	if drinkingTime > 0
 	{

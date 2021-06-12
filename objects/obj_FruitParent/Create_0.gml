@@ -7,6 +7,8 @@ chance = random_range(-1, 1);
 multiplier = 1;
 
 landedOnGround = false;
+beingEaten = false;
+eatingCountdown = 15;
 
 if chance >= 0
 {

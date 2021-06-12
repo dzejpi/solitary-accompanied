@@ -11,6 +11,7 @@
     {"id":{"name":"obj_WalkingGroundOne","path":"objects/obj_WalkingGroundOne/obj_WalkingGroundOne.yy",},"order":0,},
     {"id":{"name":"spr_SplashDzejPiLogo","path":"sprites/spr_SplashDzejPiLogo/spr_SplashDzejPiLogo.yy",},"order":1,},
     {"id":{"name":"font_SognarakSmall","path":"fonts/font_SognarakSmall/font_SognarakSmall.yy",},"order":0,},
+    {"id":{"name":"obj_EdiblePlantParent","path":"objects/obj_EdiblePlantParent/obj_EdiblePlantParent.yy",},"order":3,},
     {"id":{"name":"obj_PlantColocynthis","path":"objects/obj_PlantColocynthis/obj_PlantColocynthis.yy",},"order":0,},
     {"id":{"name":"obj_OasisGrass","path":"objects/obj_OasisGrass/obj_OasisGrass.yy",},"order":0,},
     {"id":{"name":"obj_CreditsStarter","path":"objects/obj_CreditsStarter/obj_CreditsStarter.yy",},"order":0,},

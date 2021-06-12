@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_MainPlayerController","path":"objects/obj_MainPlayerController/obj_MainPlayerController.yy",},"order":3,},
+    {"id":{"name":"spr_GuiMan","path":"sprites/spr_GuiMan/spr_GuiMan.yy",},"order":2,},
     {"id":{"name":"spr_BgSplash","path":"sprites/spr_BgSplash/spr_BgSplash.yy",},"order":0,},
     {"id":{"name":"spr_WalkingGroundFour","path":"sprites/spr_WalkingGroundFour/spr_WalkingGroundFour.yy",},"order":3,},
     {"id":{"name":"spr_WomanWalking","path":"sprites/spr_WomanWalking/spr_WomanWalking.yy",},"order":3,},
@@ -26,6 +27,7 @@
     {"id":{"name":"spr_ManWalking","path":"sprites/spr_ManWalking/spr_ManWalking.yy",},"order":1,},
     {"id":{"name":"obj_SplashScreenStarter","path":"objects/obj_SplashScreenStarter/obj_SplashScreenStarter.yy",},"order":0,},
     {"id":{"name":"obj_WindowSizeHandler","path":"objects/obj_WindowSizeHandler/obj_WindowSizeHandler.yy",},"order":2,},
+    {"id":{"name":"spr_GuiSanity","path":"sprites/spr_GuiSanity/spr_GuiSanity.yy",},"order":4,},
     {"id":{"name":"room_MainMenu","path":"rooms/room_MainMenu/room_MainMenu.yy",},"order":1,},
     {"id":{"name":"obj_WalkingGroundFour","path":"objects/obj_WalkingGroundFour/obj_WalkingGroundFour.yy",},"order":2,},
     {"id":{"name":"spr_GuiThirst","path":"sprites/spr_GuiThirst/spr_GuiThirst.yy",},"order":0,},
@@ -37,6 +39,7 @@
     {"id":{"name":"obj_PlayerFollowingObject","path":"objects/obj_PlayerFollowingObject/obj_PlayerFollowingObject.yy",},"order":4,},
     {"id":{"name":"spr_WalkingGroundTwo","path":"sprites/spr_WalkingGroundTwo/spr_WalkingGroundTwo.yy",},"order":1,},
     {"id":{"name":"spr_GuiBattery","path":"sprites/spr_GuiBattery/spr_GuiBattery.yy",},"order":1,},
+    {"id":{"name":"spr_GuiWoman","path":"sprites/spr_GuiWoman/spr_GuiWoman.yy",},"order":3,},
     {"id":{"name":"obj_MenuButtonParent","path":"objects/obj_MenuButtonParent/obj_MenuButtonParent.yy",},"order":0,},
     {"id":{"name":"room_Game","path":"rooms/room_Game/room_Game.yy",},"order":2,},
     {"id":{"name":"obj_GuiController","path":"objects/obj_GuiController/obj_GuiController.yy",},"order":0,},

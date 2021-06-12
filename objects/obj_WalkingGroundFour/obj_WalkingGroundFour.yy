@@ -1,10 +1,16 @@
 {
-  "spriteId": null,
-  "solid": false,
+  "spriteId": {
+    "name": "spr_WalkingGroundFour",
+    "path": "sprites/spr_WalkingGroundFour/spr_WalkingGroundFour.yy",
+  },
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_WalkingSurfaceParent",
+    "path": "objects/obj_WalkingSurfaceParent/obj_WalkingSurfaceParent.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

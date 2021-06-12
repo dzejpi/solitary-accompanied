@@ -1,10 +1,19 @@
 {
-  "spriteId": null,
-  "solid": false,
+  "spriteId": {
+    "name": "spr_WalkingGroundTwo",
+    "path": "sprites/spr_WalkingGroundTwo/spr_WalkingGroundTwo.yy",
+  },
+  "solid": true,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_WalkingGroundTwo",
+    "path": "sprites/spr_WalkingGroundTwo/spr_WalkingGroundTwo.yy",
+  },
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_WalkingSurfaceParent",
+    "path": "objects/obj_WalkingSurfaceParent/obj_WalkingSurfaceParent.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

@@ -126,6 +126,11 @@ if sanityLevel > 0
 	}
 }
 
+if thirstLevel >= 100
+{
+	thirstLevel = 100;
+}
+
 if batteryLevel > 100
 {
 	batteryLevel = 100;

@@ -17,3 +17,13 @@ if isControllable
 		hspeed = 0;
 	}
 }
+
+// Walk on top of the walking ground
+for(i = y - sprite_height; i < room_height; i++) 
+{
+	if (collision_line(x, y - sprite_height, x, i, obj_WalkingSurfaceParent, true, true) != noone) 
+	{
+		y = i;
+		break;   
+	}
+}

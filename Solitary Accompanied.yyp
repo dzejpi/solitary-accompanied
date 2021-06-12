@@ -49,6 +49,7 @@
     {"id":{"name":"spr_GuiThirst","path":"sprites/spr_GuiThirst/spr_GuiThirst.yy",},"order":0,},
     {"id":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"order":5,},
     {"id":{"name":"spr_PlantDate","path":"sprites/spr_PlantDate/spr_PlantDate.yy",},"order":2,},
+    {"id":{"name":"spr_DesertBackground","path":"sprites/spr_DesertBackground/spr_DesertBackground.yy",},"order":0,},
     {"id":{"name":"obj_IntroStarter","path":"objects/obj_IntroStarter/obj_IntroStarter.yy",},"order":0,},
     {"id":{"name":"obj_MenuButtonQuit","path":"objects/obj_MenuButtonQuit/obj_MenuButtonQuit.yy",},"order":4,},
     {"id":{"name":"spr_ManIdle","path":"sprites/spr_ManIdle/spr_ManIdle.yy",},"order":0,},
@@ -135,6 +136,8 @@
     {"folderPath":"folders/Objects/Edibles.yy","order":5,"resourceVersion":"1.0","name":"Edibles","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Edibles/Fruits.yy","order":2,"resourceVersion":"1.0","name":"Fruits","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Edibles/Plants.yy","order":3,"resourceVersion":"1.0","name":"Plants","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Backgrounds.yy","order":8,"resourceVersion":"1.0","name":"Backgrounds","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Backgrounds/Gameplay.yy","order":1,"resourceVersion":"1.0","name":"Gameplay","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

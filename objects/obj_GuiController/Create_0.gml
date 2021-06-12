@@ -20,3 +20,4 @@ manThirst = 50;
 womanThirst = 50;
 
 tooltip = "";
+tooltipCountdown = 0;

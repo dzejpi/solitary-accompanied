@@ -16,3 +16,12 @@ womanBatteryWidth = ((gui_indentation * 8) - (gui_indentation * 3)) * (womanBatt
 
 manSanityWidth = ((gui_indentation * 8) - (gui_indentation * 3)) * (manSanity * 0.01);
 womanSanityWidth = ((gui_indentation * 8) - (gui_indentation * 3)) * (womanSanity * 0.01);
+
+if tooltipCountdown > 0
+{
+	tooltipCountdown -= 1;
+} else
+{
+	tooltipCountdown = 0;
+	tooltip = "";
+}

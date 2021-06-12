@@ -19,6 +19,7 @@
     {"id":{"name":"obj_PlayerParent","path":"objects/obj_PlayerParent/obj_PlayerParent.yy",},"order":2,},
     {"id":{"name":"obj_WalkingGroundFill","path":"objects/obj_WalkingGroundFill/obj_WalkingGroundFill.yy",},"order":5,},
     {"id":{"name":"room_Credits","path":"rooms/room_Credits/room_Credits.yy",},"order":3,},
+    {"id":{"name":"obj_FruitParent","path":"objects/obj_FruitParent/obj_FruitParent.yy",},"order":2,},
     {"id":{"name":"obj_PlantOpuntia","path":"objects/obj_PlantOpuntia/obj_PlantOpuntia.yy",},"order":2,},
     {"id":{"name":"obj_WalkingGroundTwo","path":"objects/obj_WalkingGroundTwo/obj_WalkingGroundTwo.yy",},"order":4,},
     {"id":{"name":"spr_PlantOpuntia","path":"sprites/spr_PlantOpuntia/spr_PlantOpuntia.yy",},"order":1,},

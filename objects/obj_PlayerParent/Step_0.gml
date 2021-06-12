@@ -24,13 +24,14 @@ for(i = y - sprite_height; i < room_height; i++)
 	if (collision_line(x, y - sprite_height, x, i, obj_WalkingSurfaceParent, true, true) != noone) 
 	{
 		y = i;
-		break;   
+		break;
 	}
 }
 
 // Collisions
 if position_meeting(x, y, obj_DrinkableObjectParent)
 {
+	obj_GuiController.tooltipCountdown = 30;
 	obj_GuiController.tooltip = "[SPACE] to drink.";
 	
 	if keyboard_check(vk_space)
@@ -38,10 +39,7 @@ if position_meeting(x, y, obj_DrinkableObjectParent)
 		currentlyDrinking = true;
 		isControllable = false;
 	}
-} else
-{
-	obj_GuiController.tooltip = "";
-}
+} 
 
 if currentlyDrinking
 {

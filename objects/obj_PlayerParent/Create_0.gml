@@ -13,4 +13,4 @@ batteryLevel = 33;
 sanityLevel = 50;
 
 currentlyDrinking = false;
-drinkingTime = 150;
+drinkingTime = 180;

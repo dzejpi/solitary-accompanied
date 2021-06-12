@@ -1,0 +1,171 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 7,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 2,
+  "bbox_right": 6,
+  "bbox_top": 1,
+  "bbox_bottom": 15,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 9,
+  "height": 16,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"51a5a3e5-afe0-44fa-865d-49aee280adb2","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"51a5a3e5-afe0-44fa-865d-49aee280adb2","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"51a5a3e5-afe0-44fa-865d-49aee280adb2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"45b33c94-ca29-479b-8827-ed8ca1a7973d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"45b33c94-ca29-479b-8827-ed8ca1a7973d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"45b33c94-ca29-479b-8827-ed8ca1a7973d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0f723ec8-34f7-42e1-bcad-87bc332907d8","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0f723ec8-34f7-42e1-bcad-87bc332907d8","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"0f723ec8-34f7-42e1-bcad-87bc332907d8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0700c3c2-464b-485d-84f1-c6201bce2bdd","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0700c3c2-464b-485d-84f1-c6201bce2bdd","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"0700c3c2-464b-485d-84f1-c6201bce2bdd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"29f86c82-b667-4de4-961f-12613669518d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"29f86c82-b667-4de4-961f-12613669518d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"29f86c82-b667-4de4-961f-12613669518d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d29d5be9-4554-4783-bc38-71d68e2af737","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d29d5be9-4554-4783-bc38-71d68e2af737","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"d29d5be9-4554-4783-bc38-71d68e2af737","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d9bd7414-ae82-493f-8761-52aa386b669d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d9bd7414-ae82-493f-8761-52aa386b669d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"d9bd7414-ae82-493f-8761-52aa386b669d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bc603d6e-3bc9-4c0c-909a-370b6bc7caee","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bc603d6e-3bc9-4c0c-909a-370b6bc7caee","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"bc603d6e-3bc9-4c0c-909a-370b6bc7caee","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"33d9f5b3-d4bc-4a94-913a-397e8c0f4c2d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"33d9f5b3-d4bc-4a94-913a-397e8c0f4c2d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"33d9f5b3-d4bc-4a94-913a-397e8c0f4c2d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"05a315b4-5cb4-47bd-abf9-07d645f2fa1a","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"05a315b4-5cb4-47bd-abf9-07d645f2fa1a","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"05a315b4-5cb4-47bd-abf9-07d645f2fa1a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c9891334-d17b-4258-9a66-0a6ad7b11c5f","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c9891334-d17b-4258-9a66-0a6ad7b11c5f","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"c9891334-d17b-4258-9a66-0a6ad7b11c5f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e79f1706-3106-4dd5-b26f-315fa32edaa0","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e79f1706-3106-4dd5-b26f-315fa32edaa0","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"e79f1706-3106-4dd5-b26f-315fa32edaa0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fe088272-3bb3-410a-85b1-259879ec8d06","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fe088272-3bb3-410a-85b1-259879ec8d06","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"fe088272-3bb3-410a-85b1-259879ec8d06","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d0069d73-d533-4c05-a5c6-ea86d78f884e","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d0069d73-d533-4c05-a5c6-ea86d78f884e","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"d0069d73-d533-4c05-a5c6-ea86d78f884e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6e9b920d-40ed-4858-b725-a61ed591297f","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6e9b920d-40ed-4858-b725-a61ed591297f","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"6e9b920d-40ed-4858-b725-a61ed591297f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cb6bd2ca-ee08-49e4-9df1-37c2df34baaa","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cb6bd2ca-ee08-49e4-9df1-37c2df34baaa","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"cb6bd2ca-ee08-49e4-9df1-37c2df34baaa","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"335aee8e-32a4-4de8-91ab-d51ef66b62d8","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"335aee8e-32a4-4de8-91ab-d51ef66b62d8","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"335aee8e-32a4-4de8-91ab-d51ef66b62d8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bf78a849-2b5f-4a70-8d12-e63fb11fb3de","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bf78a849-2b5f-4a70-8d12-e63fb11fb3de","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"bf78a849-2b5f-4a70-8d12-e63fb11fb3de","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e87fad3f-9603-4124-91b1-13a1ce94fa02","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e87fad3f-9603-4124-91b1-13a1ce94fa02","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"e87fad3f-9603-4124-91b1-13a1ce94fa02","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"09eacc4f-7251-4712-88f6-a61b902ece24","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"09eacc4f-7251-4712-88f6-a61b902ece24","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"09eacc4f-7251-4712-88f6-a61b902ece24","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6481059d-9b2b-4bfa-883c-9148372b4e73","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6481059d-9b2b-4bfa-883c-9148372b4e73","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"6481059d-9b2b-4bfa-883c-9148372b4e73","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"57874ba8-9079-4d5c-bae3-0d6147a9e663","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"57874ba8-9079-4d5c-bae3-0d6147a9e663","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"57874ba8-9079-4d5c-bae3-0d6147a9e663","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"adad24ea-4f83-43df-ab2a-b94b585cf17e","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"adad24ea-4f83-43df-ab2a-b94b585cf17e","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"adad24ea-4f83-43df-ab2a-b94b585cf17e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"87c07ff4-44ec-4fd1-a481-b439902f7357","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"87c07ff4-44ec-4fd1-a481-b439902f7357","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"LayerId":{"name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","name":"87c07ff4-44ec-4fd1-a481-b439902f7357","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 10.0,
+    "playbackSpeedType": 0,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"61d6a9c2-e7be-4341-8f08-7a721f3c3457","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"51a5a3e5-afe0-44fa-865d-49aee280adb2","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4a13ced4-d809-4269-bedb-5f40c7ec8af2","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"45b33c94-ca29-479b-8827-ed8ca1a7973d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8e36b15a-375d-41d0-a14f-3d6c30a2d034","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0f723ec8-34f7-42e1-bcad-87bc332907d8","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"20be3be6-2962-4702-a33d-3e1eccb1ca43","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0700c3c2-464b-485d-84f1-c6201bce2bdd","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"82450b45-ed49-485a-8a34-58c823beddfe","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"29f86c82-b667-4de4-961f-12613669518d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e306c906-2d87-4241-af07-207de9296872","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d29d5be9-4554-4783-bc38-71d68e2af737","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bb294e69-6dd3-49f2-b15b-1e0012ba13cc","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d9bd7414-ae82-493f-8761-52aa386b669d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"53e12842-b2c1-4894-bbff-62346be0ec4b","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bc603d6e-3bc9-4c0c-909a-370b6bc7caee","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"037e1fed-da8c-45fa-b89f-bfa9fe59e12b","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"33d9f5b3-d4bc-4a94-913a-397e8c0f4c2d","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2ec25d50-4a69-40d6-a3aa-a7c7ac303e88","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"05a315b4-5cb4-47bd-abf9-07d645f2fa1a","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1a7967e7-9e10-4a5d-b97b-48a8b5c20c64","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c9891334-d17b-4258-9a66-0a6ad7b11c5f","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"27615d97-47b1-41c7-88be-21c44a25c59a","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e79f1706-3106-4dd5-b26f-315fa32edaa0","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"62beacd0-b541-498a-86b8-7e9f19ee1db4","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fe088272-3bb3-410a-85b1-259879ec8d06","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"81b310de-00da-4662-93be-b3ed954d2ff6","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d0069d73-d533-4c05-a5c6-ea86d78f884e","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9b48c363-a82c-45a8-bd02-114df2cbd3a7","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6e9b920d-40ed-4858-b725-a61ed591297f","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"91aece65-ad37-45d2-b6d0-65547350eb35","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cb6bd2ca-ee08-49e4-9df1-37c2df34baaa","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2931fcac-fb05-4e7f-b932-7e6c42786140","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"335aee8e-32a4-4de8-91ab-d51ef66b62d8","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"03ee0914-eddd-434e-91ea-e3820d83fbe3","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bf78a849-2b5f-4a70-8d12-e63fb11fb3de","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"917f61ab-c526-4486-85f5-7734712906b6","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e87fad3f-9603-4124-91b1-13a1ce94fa02","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b1d42158-68ae-41c2-b5fb-bf9f0a140a94","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"09eacc4f-7251-4712-88f6-a61b902ece24","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b7a6ba13-e4e6-44fe-8d84-7139f425d84a","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6481059d-9b2b-4bfa-883c-9148372b4e73","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5b04b5a0-4235-4b8d-9df5-3eb819192908","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"57874ba8-9079-4d5c-bae3-0d6147a9e663","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a02975ea-e116-45df-a478-b1993a47f652","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"adad24ea-4f83-43df-ab2a-b94b585cf17e","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bfe52152-f3b9-4092-a184-46f3573a2b89","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"87c07ff4-44ec-4fd1-a481-b439902f7357","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 4,
+    "yorigin": 16,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},
+    "resourceVersion": "1.3",
+    "name": "spr_WomanDrinking",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5bfc6e8f-1b0d-4485-8181-b3f556f605c6","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Character Sprites",
+    "path": "folders/Sprites/Character Sprites.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_WomanDrinking",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

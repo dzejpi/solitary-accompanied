@@ -37,6 +37,7 @@
     {"id":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"order":4,},
     {"id":{"name":"obj_WalkingGroundFour","path":"objects/obj_WalkingGroundFour/obj_WalkingGroundFour.yy",},"order":2,},
     {"id":{"name":"spr_GuiThirst","path":"sprites/spr_GuiThirst/spr_GuiThirst.yy",},"order":0,},
+    {"id":{"name":"spr_WomanDrinking","path":"sprites/spr_WomanDrinking/spr_WomanDrinking.yy",},"order":5,},
     {"id":{"name":"obj_IntroStarter","path":"objects/obj_IntroStarter/obj_IntroStarter.yy",},"order":0,},
     {"id":{"name":"obj_MenuButtonQuit","path":"objects/obj_MenuButtonQuit/obj_MenuButtonQuit.yy",},"order":4,},
     {"id":{"name":"spr_ManIdle","path":"sprites/spr_ManIdle/spr_ManIdle.yy",},"order":0,},

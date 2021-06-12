@@ -1,2 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Create necessary objects
+instance_create_depth(0, 0, 0, obj_RoomStart);

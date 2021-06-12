@@ -11,6 +11,7 @@
     {"id":{"name":"spr_WomanWalking","path":"sprites/spr_WomanWalking/spr_WomanWalking.yy",},"order":3,},
     {"id":{"name":"obj_WalkingGroundOne","path":"objects/obj_WalkingGroundOne/obj_WalkingGroundOne.yy",},"order":0,},
     {"id":{"name":"spr_SplashDzejPiLogo","path":"sprites/spr_SplashDzejPiLogo/spr_SplashDzejPiLogo.yy",},"order":1,},
+    {"id":{"name":"obj_NextRoom","path":"objects/obj_NextRoom/obj_NextRoom.yy",},"order":1,},
     {"id":{"name":"font_SognarakSmall","path":"fonts/font_SognarakSmall/font_SognarakSmall.yy",},"order":0,},
     {"id":{"name":"obj_EdiblePlantParent","path":"objects/obj_EdiblePlantParent/obj_EdiblePlantParent.yy",},"order":3,},
     {"id":{"name":"obj_PlantColocynthis","path":"objects/obj_PlantColocynthis/obj_PlantColocynthis.yy",},"order":0,},
@@ -73,6 +74,7 @@
     {"id":{"name":"obj_WalkingGroundThree","path":"objects/obj_WalkingGroundThree/obj_WalkingGroundThree.yy",},"order":1,},
     {"id":{"name":"obj_MenuButtonSound","path":"objects/obj_MenuButtonSound/obj_MenuButtonSound.yy",},"order":2,},
     {"id":{"name":"spr_ManEating","path":"sprites/spr_ManEating/spr_ManEating.yy",},"order":6,},
+    {"id":{"name":"obj_RoomStart","path":"objects/obj_RoomStart/obj_RoomStart.yy",},"order":0,},
     {"id":{"name":"spr_PlantColocynthis","path":"sprites/spr_PlantColocynthis/spr_PlantColocynthis.yy",},"order":0,},
     {"id":{"name":"obj_PlayerMan","path":"objects/obj_PlayerMan/obj_PlayerMan.yy",},"order":0,},
     {"id":{"name":"obj_WalkingGroundFillTwo","path":"objects/obj_WalkingGroundFillTwo/obj_WalkingGroundFillTwo.yy",},"order":1,},
@@ -144,6 +146,7 @@
     {"folderPath":"folders/Sprites/Backgrounds/Gameplay.yy","order":1,"resourceVersion":"1.0","name":"Gameplay","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Game Group/Environment/Grounds/Fills.yy","order":7,"resourceVersion":"1.0","name":"Fills","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Environment/Walking Ground/Fills.yy","order":9,"resourceVersion":"1.0","name":"Fills","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Room Transitions.yy","order":6,"resourceVersion":"1.0","name":"Room Transitions","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

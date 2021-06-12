@@ -7,6 +7,9 @@ draw_set_valign(fa_middle);
 spritePositionX = x + (gui_indentation * 28);
 spritePositionY = y + (gui_indentation * 9);
 
+avatarPositionX = x + (gui_indentation * 2);
+avatarPositionY = y + (gui_indentation * 2);
+
 if obj_IntroPlane.lostControl
 {
 	if obj_IntroPlane.skiddingUp
@@ -28,4 +31,20 @@ if obj_IntroPlane.lostControl
 			draw_sprite(spr_KeyboardHelpedUp, 0, spritePositionX, spritePositionY);
 		}
 	}
+}
+
+if isDialogPresent
+{
+	if isManTalking
+	{
+		draw_sprite(spr_GuiMan, 0, avatarPositionX, avatarPositionY);
+	} else
+	{
+		draw_sprite(spr_GuiWoman, 0, avatarPositionX, avatarPositionY);
+	}
+	
+	draw_set_halign(fa_left);
+	
+	draw_set_font(font_SognarakMenu);
+	draw_text_color(avatarPositionX + gui_indentation, avatarPositionY, dialogText, buttonTextColor, buttonTextColor, buttonTextColor, buttonTextColor, 1);
 }

@@ -18,6 +18,12 @@ if isControllable
 	}
 }
 
+// Regain sanity if standing under date tree
+if place_meeting(x, y, obj_PlantDate)
+{
+	sanityLevel += 0.04;
+}
+
 // Walk on top of the walking ground
 for(i = y - sprite_height; i < room_height; i++) 
 {
@@ -92,6 +98,7 @@ if currentlyDrinking
 		if thirstLevel < 100
 		{
 			thirstLevel += 0.5;
+			sanityLevel += 0.2;
 		} else
 		{
 			thirstLevel = 100;
@@ -105,7 +112,7 @@ if currentlyDrinking
 	}
 } else
 {
-	thirstLevel -= 0.01;
+	thirstLevel -= 0.005;
 }
 
 if sanityLevel > 0
@@ -115,8 +122,16 @@ if sanityLevel > 0
 		sanityLevel = 100;
 	} else
 	{
-		sanityLevel -= 0.01;
+		sanityLevel -= 0.005;
 	}
+}
+
+if batteryLevel > 100
+{
+	batteryLevel = 100;
+} else if batteryLevel <= 0
+{
+	batteryLevel = 0;
 }
 
 if thirstLevel <= 0

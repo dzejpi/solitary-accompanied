@@ -9,12 +9,12 @@ eatingAnimation = spr_ManEating;
 
 walkingSpeed = 1;
 
-thirstLevel = 25;
-batteryLevel = 33;
+thirstLevel = 100;
+batteryLevel = 75;
 sanityLevel = 50;
 
 currentlyDrinking = false;
-drinkingTime = 120;
+drinkingTime = 100;
 
 currentlyEating = false;
 eatingTime = 40;

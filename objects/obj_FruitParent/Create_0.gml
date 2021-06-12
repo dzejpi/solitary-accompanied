@@ -1,7 +1,7 @@
 /// @description Fruit variables
 name = "";
-water = 10;
-sanity = 10;
+water = 5;
+sanity = 5;
 
 chance = random_range(-1, 1);
 multiplier = 1;

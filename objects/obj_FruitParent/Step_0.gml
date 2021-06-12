@@ -4,7 +4,7 @@ if place_meeting(x, y, obj_PlayerParent)
 	obj_GuiController.tooltipCountdown = 30;
 	obj_GuiController.tooltip = "[SPACE] Eat " + name + ".";
 	
-	if keyboard_check(vk_space)
+	if keyboard_check_pressed(vk_space)
 	{
 		beingEaten = true;
 	}

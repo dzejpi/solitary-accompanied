@@ -43,7 +43,7 @@ if position_meeting(x, y, obj_DrinkableObjectParent)
 
 if place_meeting(x, y, obj_FruitParent)
 {
-	if keyboard_check(vk_space)
+	if keyboard_check_pressed(vk_space)
 	{
 		if place_meeting(x, y, obj_FruitDate)
 		{
@@ -106,6 +106,17 @@ if currentlyDrinking
 } else
 {
 	thirstLevel -= 0.01;
+}
+
+if sanityLevel > 0
+{
+	if sanityLevel >= 100
+	{
+		sanityLevel = 100;
+	} else
+	{
+		sanityLevel -= 0.01;
+	}
 }
 
 if thirstLevel <= 0

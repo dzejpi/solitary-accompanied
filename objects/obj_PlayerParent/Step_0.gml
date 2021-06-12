@@ -27,3 +27,42 @@ for(i = y - sprite_height; i < room_height; i++)
 		break;   
 	}
 }
+
+// Collisions
+if position_meeting(x, y, obj_DrinkableObjectParent)
+{
+	obj_GuiController.tooltip = "[SPACE] to drink.";
+	
+	if keyboard_check(vk_space)
+	{
+		currentlyDrinking = true;
+		isControllable = false;
+	}
+} else
+{
+	obj_GuiController.tooltip = "";
+}
+
+if currentlyDrinking
+{
+	if drinkingTime > 0
+	{
+		drinkingTime -= 1;
+		
+		if thirstLevel < 100
+		{
+			thirstLevel += 0.5;
+		} else
+		{
+			thirstLevel = 100;
+		}
+	} else
+	{
+		drinkingTime = 120;
+		currentlyDrinking = false;
+		isControllable = true;
+	}
+} else
+{
+	thirstLevel -= 0.01;
+}

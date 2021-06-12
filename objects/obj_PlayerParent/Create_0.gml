@@ -10,3 +10,6 @@ walkingSpeed = 1;
 thirstLevel = 25;
 batteryLevel = 33;
 sanityLevel = 50;
+
+currentlyDrinking = false;
+drinkingTime = 120;

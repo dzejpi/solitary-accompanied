@@ -45,6 +45,8 @@ if position_meeting(x, y, obj_DrinkableObjectParent)
 
 if currentlyDrinking
 {
+	sprite_index = drinkAnimation;
+	
 	if drinkingTime > 0
 	{
 		drinkingTime -= 1;
@@ -61,6 +63,7 @@ if currentlyDrinking
 		drinkingTime = 120;
 		currentlyDrinking = false;
 		isControllable = true;
+		sprite_index = idleAnimation;
 	}
 } else
 {

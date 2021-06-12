@@ -4,6 +4,7 @@ isControllable = false;
 
 idleAnimation = spr_ManIdle;
 walkAnimation = spr_ManWalking;
+drinkAnimation = spr_ManDrinking;
 
 walkingSpeed = 1;
 
@@ -12,4 +13,4 @@ batteryLevel = 33;
 sanityLevel = 50;
 
 currentlyDrinking = false;
-drinkingTime = 120;
+drinkingTime = 150;

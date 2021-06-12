@@ -1,0 +1,171 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 7,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 2,
+  "bbox_right": 6,
+  "bbox_top": 1,
+  "bbox_bottom": 15,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 9,
+  "height": 16,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"eded2fab-6950-4583-82f7-37b171022efb","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eded2fab-6950-4583-82f7-37b171022efb","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"eded2fab-6950-4583-82f7-37b171022efb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8511dff7-e818-4401-8483-08cf16b5d426","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8511dff7-e818-4401-8483-08cf16b5d426","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"8511dff7-e818-4401-8483-08cf16b5d426","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3bfcd208-d8ed-4acd-9e8e-98baaf21995c","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3bfcd208-d8ed-4acd-9e8e-98baaf21995c","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"3bfcd208-d8ed-4acd-9e8e-98baaf21995c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ea3fce00-33d7-4d54-b344-1b8f994d76c5","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ea3fce00-33d7-4d54-b344-1b8f994d76c5","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"ea3fce00-33d7-4d54-b344-1b8f994d76c5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9dfd676c-236d-4891-84e9-e135d0ed63db","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9dfd676c-236d-4891-84e9-e135d0ed63db","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"9dfd676c-236d-4891-84e9-e135d0ed63db","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1cc00616-cd1d-496f-af08-6f60f030be2c","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1cc00616-cd1d-496f-af08-6f60f030be2c","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"1cc00616-cd1d-496f-af08-6f60f030be2c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"38a63103-cd64-4c3d-817b-bf41b846efea","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"38a63103-cd64-4c3d-817b-bf41b846efea","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"38a63103-cd64-4c3d-817b-bf41b846efea","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1a1e90d4-b398-41b4-830d-a9790800b962","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1a1e90d4-b398-41b4-830d-a9790800b962","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"1a1e90d4-b398-41b4-830d-a9790800b962","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ed96a6ce-94f0-435f-94c2-8151b10066d4","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ed96a6ce-94f0-435f-94c2-8151b10066d4","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"ed96a6ce-94f0-435f-94c2-8151b10066d4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e31ff05c-662d-4720-abf5-f2d821e5ae37","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e31ff05c-662d-4720-abf5-f2d821e5ae37","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"e31ff05c-662d-4720-abf5-f2d821e5ae37","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8cea71f8-15bb-44f1-b8fc-d8b008319450","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8cea71f8-15bb-44f1-b8fc-d8b008319450","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"8cea71f8-15bb-44f1-b8fc-d8b008319450","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f94ed0f3-75a6-46a5-acba-31f23f07c4b8","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f94ed0f3-75a6-46a5-acba-31f23f07c4b8","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"f94ed0f3-75a6-46a5-acba-31f23f07c4b8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"baeeb354-268c-470f-bbb5-486148b700c3","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"baeeb354-268c-470f-bbb5-486148b700c3","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"baeeb354-268c-470f-bbb5-486148b700c3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b6a7cd21-f100-40bb-80bf-58aaa8370cc8","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b6a7cd21-f100-40bb-80bf-58aaa8370cc8","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"b6a7cd21-f100-40bb-80bf-58aaa8370cc8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2b834e27-3c02-4e4b-abbd-11ecc8ccb965","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2b834e27-3c02-4e4b-abbd-11ecc8ccb965","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"2b834e27-3c02-4e4b-abbd-11ecc8ccb965","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"63d6abb7-6651-4110-a758-599bf0b12766","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"63d6abb7-6651-4110-a758-599bf0b12766","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"63d6abb7-6651-4110-a758-599bf0b12766","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b9417592-a74e-47ee-962f-8ba25b78d96b","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b9417592-a74e-47ee-962f-8ba25b78d96b","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"b9417592-a74e-47ee-962f-8ba25b78d96b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"68801216-c54d-4d96-b515-62d52ecfce45","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"68801216-c54d-4d96-b515-62d52ecfce45","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"68801216-c54d-4d96-b515-62d52ecfce45","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0e8e8686-6c9c-419a-9a59-c83bb6fa065f","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0e8e8686-6c9c-419a-9a59-c83bb6fa065f","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"0e8e8686-6c9c-419a-9a59-c83bb6fa065f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1536bb7a-00b9-4547-9ed3-c0f3ff36487d","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1536bb7a-00b9-4547-9ed3-c0f3ff36487d","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"1536bb7a-00b9-4547-9ed3-c0f3ff36487d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"035f559a-6d1a-484a-b518-e0a2679c022e","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"035f559a-6d1a-484a-b518-e0a2679c022e","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"035f559a-6d1a-484a-b518-e0a2679c022e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5df558f7-85f0-42df-b6ed-69d937baa939","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5df558f7-85f0-42df-b6ed-69d937baa939","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"5df558f7-85f0-42df-b6ed-69d937baa939","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1c051f02-6393-4b9a-b485-617d9ee899b6","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1c051f02-6393-4b9a-b485-617d9ee899b6","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"1c051f02-6393-4b9a-b485-617d9ee899b6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"548c5ea2-804b-436c-87a7-d089c0ad2bf3","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"548c5ea2-804b-436c-87a7-d089c0ad2bf3","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"LayerId":{"name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","name":"548c5ea2-804b-436c-87a7-d089c0ad2bf3","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 10.0,
+    "playbackSpeedType": 0,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"76ad08f0-5be0-4272-ac01-c2b899179e13","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eded2fab-6950-4583-82f7-37b171022efb","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"86b6a928-db5c-47f1-8dda-ea6f6b45c6d4","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8511dff7-e818-4401-8483-08cf16b5d426","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5356dbd4-3dfc-4ba7-b347-bec59c41b2da","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3bfcd208-d8ed-4acd-9e8e-98baaf21995c","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"53996dbe-797f-4c97-9a90-cdf9a9c9fc5e","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ea3fce00-33d7-4d54-b344-1b8f994d76c5","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"65ee5559-2616-44dc-bd6d-80adbbfc648d","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9dfd676c-236d-4891-84e9-e135d0ed63db","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"75e63fef-81b0-48bf-863c-e9a7a7348914","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1cc00616-cd1d-496f-af08-6f60f030be2c","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b315e40b-5711-4e47-bef6-74bdf06ed144","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"38a63103-cd64-4c3d-817b-bf41b846efea","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"992a4137-d80f-48d4-8d8b-98138f67095c","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1a1e90d4-b398-41b4-830d-a9790800b962","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"75b90a33-f368-418d-8844-dd47ed8378ad","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ed96a6ce-94f0-435f-94c2-8151b10066d4","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c135ae94-6fe5-4bba-84b9-a19312df4475","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e31ff05c-662d-4720-abf5-f2d821e5ae37","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5e21b2ee-72fb-432e-8dc5-fc7d4181b882","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8cea71f8-15bb-44f1-b8fc-d8b008319450","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0da260df-dcc0-4aa4-96c8-04c02a9482d0","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f94ed0f3-75a6-46a5-acba-31f23f07c4b8","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8160704e-fb17-4c7b-b844-2a3fdbecb0d2","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"baeeb354-268c-470f-bbb5-486148b700c3","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a39cf4ea-9f25-493b-86fb-8ef39e5f42a1","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b6a7cd21-f100-40bb-80bf-58aaa8370cc8","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"562003af-aa33-44ab-9332-276d1042ac6b","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2b834e27-3c02-4e4b-abbd-11ecc8ccb965","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"dbcfca96-deae-4b2b-94e9-aaccdb8d703a","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"63d6abb7-6651-4110-a758-599bf0b12766","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f5f61ffd-8705-4e2c-8550-1147823278f3","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b9417592-a74e-47ee-962f-8ba25b78d96b","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0210cb34-77c4-4a59-9752-492d1f4a8c2a","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"68801216-c54d-4d96-b515-62d52ecfce45","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e9dd1e57-3fc7-4ead-8644-030b31457cd5","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0e8e8686-6c9c-419a-9a59-c83bb6fa065f","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"37c39126-6554-4d30-afa0-f0df53fe9853","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1536bb7a-00b9-4547-9ed3-c0f3ff36487d","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2ad38022-f0ea-414c-813d-7ca139be1cbd","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"035f559a-6d1a-484a-b518-e0a2679c022e","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2c2169c0-b016-4b16-a9b9-11718dc4d5be","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5df558f7-85f0-42df-b6ed-69d937baa939","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"60f2bee9-85dd-43d2-b299-6faae5763fdc","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1c051f02-6393-4b9a-b485-617d9ee899b6","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6c41cfd8-ca69-4c56-8024-d6768158fdd4","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"548c5ea2-804b-436c-87a7-d089c0ad2bf3","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 4,
+    "yorigin": 16,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_ManDrinking","path":"sprites/spr_ManDrinking/spr_ManDrinking.yy",},
+    "resourceVersion": "1.3",
+    "name": "spr_ManDrinking",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8aa6909e-4ccb-434f-8fd2-01ef8f3cbf58","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Character Sprites",
+    "path": "folders/Sprites/Character Sprites.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_ManDrinking",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

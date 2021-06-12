@@ -10,12 +10,18 @@ if place_meeting(x, y, obj_PlayerParent)
 	}
 }
 
+if place_meeting(x, y + 3, obj_WalkingSurfaceParent)
+{
+	vspeed = 0;
+	hspeed = 0;
+}
+
 if vspeed < 0
 {
 	vspeed += 0.1;
 } else
 {
-	if !place_meeting(x, y + 1, obj_WalkingSurfaceParent)
+	if !place_meeting(x, y + 3, obj_WalkingSurfaceParent)
 	{
 		vspeed += 0.1;
 	} else

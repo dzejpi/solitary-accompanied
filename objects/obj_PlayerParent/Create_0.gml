@@ -8,4 +8,4 @@ walkAnimation = spr_ManWalking;
 walkingSpeed = 1;
 
 thirstLevel = 25;
-batteryLevel = 25;
+batteryLevel = 33;

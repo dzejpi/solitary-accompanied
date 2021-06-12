@@ -3,6 +3,7 @@
 ediblePlantTooltip = "";
 plantFruit = obj_FruitDate;
 fruitsGrown = 3;
+containsAvailableFruit = true;
 
 generatedFruitX = 1;
 generatedFruitY = 1;

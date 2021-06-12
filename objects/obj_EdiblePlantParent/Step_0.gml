@@ -1,13 +1,20 @@
 // Colocynthis tooltip
 if place_meeting(x, y, obj_PlayerParent) && !isShaken
 {
-	obj_GuiController.tooltipCountdown = 15;
-	obj_GuiController.tooltip = ediblePlantTooltip;
-	
-	if keyboard_check(vk_space)
+	if containsAvailableFruit
 	{
-		isShaken = true;
-		countdown = 30;
+		obj_GuiController.tooltipCountdown = 15;
+		obj_GuiController.tooltip = ediblePlantTooltip;
+	
+		if keyboard_check(vk_space)
+		{
+			isShaken = true;
+			countdown = 30;
+		}
+	} else
+	{
+		obj_GuiController.tooltipCountdown = 15;
+		obj_GuiController.tooltip = "No more fruit!";
 	}
 }
 
@@ -34,4 +41,9 @@ if countdown > 0
 {
 	countdown = 0;
 	isShaken = false;
+}
+
+if fruitsGrown <= 0
+{
+	containsAvailableFruit = false;
 }

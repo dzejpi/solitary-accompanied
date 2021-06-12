@@ -14,6 +14,7 @@ if place_meeting(x, y + 3, obj_WalkingSurfaceParent)
 {
 	vspeed = 0;
 	hspeed = 0;
+	landedOnGround = true;
 }
 
 if vspeed < 0
@@ -39,14 +40,16 @@ if hspeed < 0
 	hspeed -= 0.01
 }
 
-// Stay on the ground
-for(i = y - sprite_height; i < room_height; i++) 
+// Stay on the ground - deprecated
+if landedOnGround
 {
-	if (collision_line(x, y - sprite_height, x, i, obj_WalkingSurfaceParent, true, true) != noone) 
+	for(i = y - sprite_height; i < room_height; i++) 
 	{
-		//vspeed = 0;
-		//hspeed = 0;
-		//y = i;
-		//break;
+		if (collision_line(x, y - sprite_height, x, i, obj_WalkingSurfaceParent, true, true) != noone) 
+		{
+			y = i;
+			break;
+		}
 	}
 }
+

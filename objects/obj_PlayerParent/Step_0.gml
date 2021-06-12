@@ -69,3 +69,8 @@ if currentlyDrinking
 {
 	thirstLevel -= 0.01;
 }
+
+if thirstLevel <= 0
+{
+	thirstLevel = 0;
+}

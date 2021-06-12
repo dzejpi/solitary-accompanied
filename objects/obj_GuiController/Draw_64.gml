@@ -51,7 +51,7 @@ draw_sprite_ext(spr_GuiSanity, 0, (gui_indentation * 30), (gui_indentation * 13.
 
 draw_rectangle_color((gui_indentation * 29), (gui_indentation * 13), (gui_indentation * 24), (gui_indentation * 14), thirstBarColor, thirstBarColor, thirstBarColor, thirstBarColor, false);
 draw_rectangle_color((gui_indentation * 29) - edge, (gui_indentation * 13) + edge, (gui_indentation * 24) + edge, (gui_indentation * 14) - edge, thirstEmptyColor, thirstEmptyColor, thirstEmptyColor, thirstEmptyColor, false);
-draw_rectangle_color((gui_indentation * 29) - edge, (gui_indentation * 13) + edge, (gui_indentation * 29) - womanBatteryWidth + edge, (gui_indentation * 14) - edge, thirstInsideColor, thirstInsideColor, thirstInsideColor, thirstInsideColor, false);
+draw_rectangle_color((gui_indentation * 29) - edge, (gui_indentation * 13) + edge, (gui_indentation * 29) - womanSanityWidth + edge, (gui_indentation * 14) - edge, thirstInsideColor, thirstInsideColor, thirstInsideColor, thirstInsideColor, false);
 
 // Battery
 draw_sprite_ext(spr_GuiBattery, 0, (gui_indentation * 30), (gui_indentation * 15), -1, 1, 0, c_white, 1);

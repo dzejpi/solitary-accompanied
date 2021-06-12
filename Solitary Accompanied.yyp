@@ -106,9 +106,9 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"room_SplashScreen","path":"rooms/room_SplashScreen/room_SplashScreen.yy",},},
     {"roomId":{"name":"room_MainMenu","path":"rooms/room_MainMenu/room_MainMenu.yy",},},
+    {"roomId":{"name":"room_Intro","path":"rooms/room_Intro/room_Intro.yy",},},
     {"roomId":{"name":"room_Game","path":"rooms/room_Game/room_Game.yy",},},
     {"roomId":{"name":"room_Credits","path":"rooms/room_Credits/room_Credits.yy",},},
-    {"roomId":{"name":"room_Intro","path":"rooms/room_Intro/room_Intro.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

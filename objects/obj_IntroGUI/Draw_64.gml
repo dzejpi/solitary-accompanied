@@ -40,11 +40,13 @@ if isDialogPresent
 		draw_sprite(spr_GuiMan, 0, avatarPositionX, avatarPositionY);
 	} else
 	{
-		draw_sprite(spr_GuiWoman, 0, avatarPositionX, avatarPositionY);
+		//draw_sprite(spr_GuiWoman, 0, avatarPositionX, avatarPositionY);
+		draw_sprite_ext(spr_GuiWoman, 0, avatarPositionX, avatarPositionY, -1, 1, 0, c_white, 1);
 	}
 	
 	draw_set_halign(fa_left);
 	
 	draw_set_font(font_SognarakMenu);
-	draw_text_color(avatarPositionX + gui_indentation, avatarPositionY, dialogText, buttonTextColor, buttonTextColor, buttonTextColor, buttonTextColor, 1);
+	draw_text_color(avatarPositionX + gui_indentation + 2, avatarPositionY + 2, dialogText, shadowTextColor, shadowTextColor, shadowTextColor, shadowTextColor, 1);
+	draw_text_color(avatarPositionX + gui_indentation, avatarPositionY, dialogText, buttonTextColor, buttonTextColor, buttonTextColor, buttonTextColor, 1);	
 }

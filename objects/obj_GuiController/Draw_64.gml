@@ -66,3 +66,9 @@ draw_sprite_ext(spr_GuiThirst, 0, (gui_indentation * 30), (gui_indentation * 16.
 draw_rectangle_color((gui_indentation * 29), (gui_indentation * 16), (gui_indentation * 24), (gui_indentation * 17), thirstBarColor, thirstBarColor, thirstBarColor, thirstBarColor, false);
 draw_rectangle_color((gui_indentation * 29) - edge, (gui_indentation * 16) + edge, (gui_indentation * 24) + edge, (gui_indentation * 17) - edge, thirstEmptyColor, thirstEmptyColor, thirstEmptyColor, thirstEmptyColor, false);
 draw_rectangle_color((gui_indentation * 29) - edge, (gui_indentation * 16) + edge, (gui_indentation * 29) - womanThirstWidth + edge, (gui_indentation * 17) - edge, thirstInsideColor, thirstInsideColor, thirstInsideColor, thirstInsideColor, false);
+
+// TOOLTIP
+draw_set_font(font_SognarakMenu);
+
+draw_text_color((gui_width/2) + 2, (gui_indentation * 15) + 2, tooltip, shadowTextColor, shadowTextColor, shadowTextColor, shadowTextColor, 1);
+draw_text_color((gui_width/2), (gui_indentation * 15), tooltip, buttonTextColor, buttonTextColor, buttonTextColor, buttonTextColor, 1);

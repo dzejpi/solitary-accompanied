@@ -6,6 +6,7 @@ if place_meeting(x, y, obj_PlayerParent)
 	
 	if keyboard_check_pressed(vk_space)
 	{
+		audio_play_sound(sound_GrabFromGround, 10, false);
 		beingEaten = true;
 	}
 }

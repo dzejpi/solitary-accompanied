@@ -7,10 +7,12 @@ if canBeSelected && doubleClickPrevention = 0
 	{
 		if isPressed = true
 		{
+			audio_play_sound(sound_Select, 10, false);
 			isPressed = false;
 			doubleClickPrevention = 30;
 		} else
 		{
+			audio_play_sound(sound_Select, 10, false);
 			isPressed = true;
 			doubleClickPrevention = 30;
 		}

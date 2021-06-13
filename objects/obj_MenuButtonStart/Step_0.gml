@@ -3,6 +3,9 @@ event_inherited();
 
 if isPressed = true
 {
-	// Uncomment once intro is finished
-	//instance_create_depth(0, 0, 0, obj_NextRoom);
+	if !gameStarted
+	{
+		instance_create_depth(0, 0, 0, obj_NextRoom);
+		gameStarted = true;
+	}
 }

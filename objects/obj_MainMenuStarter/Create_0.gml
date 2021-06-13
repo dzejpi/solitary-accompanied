@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+audio_group_load(sound_group);
+audio_group_load(music_group);
+
 positionY = 100;
 spaceBetweenButtons = 48;
 positionX = (room_width/2)

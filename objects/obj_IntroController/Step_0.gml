@@ -219,7 +219,7 @@ if countdownToNextEvent > 0
 	
 		case 17:
 			obj_IntroGUI.isManTalking = true;
-			obj_IntroGUI.dialogText = "Give me at least few seconds!";
+			obj_IntroGUI.dialogText = "Give me a chance at least!";
 			obj_IntroGUI.isDialogPresent = true;
 			obj_IntroGUI.dialogTimeout = 300;
 			
@@ -233,7 +233,7 @@ if countdownToNextEvent > 0
 	
 		case 18:
 			obj_IntroGUI.isManTalking = true;
-			obj_IntroGUI.dialogText = "Give me at least few seconds!";
+			obj_IntroGUI.dialogText = "AURGH!";
 			obj_IntroGUI.isDialogPresent = true;
 			obj_IntroGUI.dialogTimeout = 300;
 			
@@ -253,9 +253,9 @@ if countdownToNextEvent > 0
 			
 			obj_IntroPlane.lostControl = true;
 			obj_IntroPlane.skiddingUp = true;
-			obj_IntroPlane.timeUntilControlRegained = 500;
+			obj_IntroPlane.timeUntilControlRegained = 250;
 			
-			countdownToNextEvent = 200;
+			countdownToNextEvent = 150;
 			currentEvent += 1;
 		break;
 	

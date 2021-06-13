@@ -3,4 +3,5 @@ event_inherited();
 buttonText = "Music";
 
 // Music on by default
-isPressed = true;
+isPressed = false;
+canBeSelected = false;

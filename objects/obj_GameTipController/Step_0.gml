@@ -68,11 +68,17 @@ switch(activeTooltip)
 	
 	case 8:
 		obj_GuiController.gameTipEnabled = true;
-		obj_GuiController.gameTip = "Now find your significant other! GO!";
+		obj_GuiController.gameTip = "You will be letharhic if sanity is too low.";
 		obj_GuiController.gameTipAutoDisable = true;
 	break;
 	
 	case 9:
+		obj_GuiController.gameTipEnabled = true;
+		obj_GuiController.gameTip = "Now find your significant other! GO!";
+		obj_GuiController.gameTipAutoDisable = true;
+	break;
+	
+	case 10:
 		obj_GuiController.gameTipEnabled = false;
 		obj_GuiController.gameTip = "";
 	break;

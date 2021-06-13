@@ -21,3 +21,11 @@ if lostControl
 		lostControl = false;
 	}
 }
+
+if abs(image_angle) > 37
+{
+	planeControllable = false;
+	sprite_index = spr_PlaneFallingApart;
+	
+	hspeed = -4;
+}

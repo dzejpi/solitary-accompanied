@@ -13,3 +13,5 @@ lostControl = false;
 skiddingUp = false;
 
 timeUntilControlRegained = 300;
+
+planeControllable = true;

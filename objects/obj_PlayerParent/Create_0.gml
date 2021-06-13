@@ -7,6 +7,7 @@ walkAnimation = spr_ManWalking;
 drinkAnimation = spr_ManDrinking;
 eatingAnimation = spr_ManEating;
 huggingAnimation = spr_ManHugging;
+dyingAnimation = spr_ManDying;
 
 walkingSpeed = 1;
 

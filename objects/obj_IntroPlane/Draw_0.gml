@@ -13,12 +13,18 @@ if lostControl
 
 if keyboard_check(vk_up) || keyboard_check(ord("W"))
 {
-	image_angle += 0.5; 
+	if planeControllable
+	{
+		image_angle += 0.5; 
+	}
 }
 
 if keyboard_check(vk_down) || keyboard_check(ord("S"))
 {
-	image_angle -= 0.5;
+	if planeControllable
+	{
+		image_angle -= 0.5;
+	}
 }
 
 draw_self();

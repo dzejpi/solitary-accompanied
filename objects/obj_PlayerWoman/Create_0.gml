@@ -5,3 +5,4 @@ idleAnimation = spr_WomanIdle;
 walkAnimation = spr_WomanWalking;
 drinkAnimation = spr_WomanDrinking;
 eatingAnimation = spr_WomanEating;
+dyingAnimation = spr_WomanDying;

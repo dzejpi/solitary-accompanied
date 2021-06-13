@@ -34,7 +34,7 @@ if isDialogPresent
 	} else
 	{
 		isDialogPresent = false;
-		dialogTimeout = 120;
+		dialogTimeout = 360;
 	}
 }
 

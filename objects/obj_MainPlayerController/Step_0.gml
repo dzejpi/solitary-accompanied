@@ -1,5 +1,5 @@
 /// @description Player switching logic
-if keyboard_check_pressed(vk_tab)
+if keyboard_check_pressed(vk_tab) && !(obj_EndingObject.coupleFound)
 {
 	if switchCooldown = 0
 	{

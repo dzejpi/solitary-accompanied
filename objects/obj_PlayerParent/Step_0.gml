@@ -169,7 +169,11 @@ if sanityLevel < 10
 {
 	hspeed = 0;
 	apathetic = true;
-	sprite_index = apatheticAnimation;
+	
+	if !dead
+	{
+		sprite_index = apatheticAnimation;
+	}
 } else
 {
 	apathetic = false;

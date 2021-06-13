@@ -19,15 +19,17 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Credits",
-    "path": "folders/Objects/Room Starters/Credits.yy",
+    "name": "Room Transitions",
+    "path": "folders/Objects/Room Transitions.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_CreditsStarter",
+  "name": "obj_ToMainMenu",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -59,7 +59,7 @@ if countdownToNextEvent > 0
 			obj_IntroGUI.dialogText = "What do we do now?";
 			obj_IntroGUI.isDialogPresent = true;
 			obj_IntroGUI.dialogTimeout = 360;
-	
+			
 			countdownToNextEvent = 250;
 			currentEvent += 1;
 		break;
@@ -180,6 +180,8 @@ if countdownToNextEvent > 0
 			obj_IntroGUI.dialogText = "Take the two-wave radio. I will find you.";
 			obj_IntroGUI.isDialogPresent = true;
 			obj_IntroGUI.dialogTimeout = 300;
+	
+			obj_IntroPlane.sprite_index = obj_IntroPlane.openPlaneSprite;
 			
 			obj_IntroPlane.lostControl = false;
 			obj_IntroPlane.skiddingUp = true;
@@ -208,6 +210,9 @@ if countdownToNextEvent > 0
 			obj_IntroGUI.dialogText = "NOOOOOOOOO!";
 			obj_IntroGUI.isDialogPresent = true;
 			obj_IntroGUI.dialogTimeout = 300;
+			
+			obj_IntroPlane.sprite_index = obj_IntroPlane.openPlaneManOnlySprite;
+			instance_create_depth(obj_IntroPlane.x - 21, obj_IntroPlane.y, 0, obj_IntroParachutingWoman);
 			
 			obj_IntroPlane.lostControl = true;
 			obj_IntroPlane.skiddingUp = true;

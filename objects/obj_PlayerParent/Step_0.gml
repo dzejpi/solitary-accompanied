@@ -1,5 +1,5 @@
 /// @description Control behavior
-if isControllable
+if isControllable && !dead
 {
 	if (keyboard_check(vk_left) || keyboard_check(ord("A")))
 	{
@@ -151,7 +151,7 @@ if currentlyDrinking
 	}
 } else
 {
-	thirstLevel -= 0.005;
+	thirstLevel -= 0.01;
 }
 
 if sanityLevel > 0
@@ -170,6 +170,16 @@ if thirstLevel >= 100
 	thirstLevel = 100;
 }
 
+if thirstLevel <= 0
+{
+	if !dead
+	{
+		dead = true;
+		sprite_index = dyingAnimation;
+		instance_create_depth(0, 0, 0, obj_RoomRestart);
+	}
+}
+
 if batteryLevel > 100
 {
 	batteryLevel = 100;
@@ -184,4 +194,12 @@ if batteryLevel > 100
 if thirstLevel <= 0
 {
 	thirstLevel = 0;
+}
+
+if dead
+{
+	if image_index = 7
+	{
+		image_speed = 0;
+	}
 }

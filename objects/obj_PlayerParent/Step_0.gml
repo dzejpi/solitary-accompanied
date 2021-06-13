@@ -16,6 +16,45 @@ if isControllable
 		sprite_index = idleAnimation;
 		hspeed = 0;
 	}
+	
+	if keyboard_check(ord("E")) && encouragingTimeout = 0
+	{
+		encouragingTimeout = 500;
+		
+		if obj_MainPlayerController.isManControlled
+		{
+			obj_GuiController.isDialogPresent = true;
+			obj_GuiController.isManTalking = true;
+			
+			randomize();
+			
+			obj_GuiController.dialogText = encouragementText[ceil(random_range(0, 9))];
+			obj_GuiController.dialogTimeout = 300;
+			
+			obj_PlayerWoman.sanityLevel += 30;
+			obj_PlayerMan.batteryLevel -= 15;
+		} else
+		{
+			obj_GuiController.isDialogPresent = true;
+			obj_GuiController.isManTalking = false;
+			
+			randomize();
+			
+			obj_GuiController.dialogText = encouragementText[ceil(random_range(0, 9))];
+			obj_GuiController.dialogTimeout = 300
+			
+			obj_PlayerMan.sanityLevel += 30;
+			obj_PlayerWoman.batteryLevel -= 15;
+		}
+	}	
+}
+
+if encouragingTimeout > 0
+{
+	encouragingTimeout -= 1;
+} else
+{
+	encouragingTimeout = 0;
 }
 
 // Regain sanity if standing under date tree
@@ -137,6 +176,9 @@ if batteryLevel > 100
 } else if batteryLevel <= 0
 {
 	batteryLevel = 0;
+} else
+{
+	batteryLevel -= 0.001;
 }
 
 if thirstLevel <= 0

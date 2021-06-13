@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Game Group",
-    "path": "folders/Objects/Game Group.yy",
+    "name": "GUI",
+    "path": "folders/Objects/Game Group/GUI.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_GameTipController",

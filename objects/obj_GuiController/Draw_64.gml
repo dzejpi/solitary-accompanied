@@ -11,6 +11,11 @@ if obj_MainPlayerController.isManControlled
 {
 	//draw_sprite(spr_GuiMan, 0, (gui_indentation * 1.5), (gui_indentation * 1.5));
 	draw_sprite(spr_GuiMan, 0, (gui_indentation * 2.5), (gui_indentation * 11.5));
+	
+	if obj_PlayerWoman.sanityLevel <= 15
+	{
+		draw_sprite(spr_Encourage, 0, (gui_indentation * 4.5), (gui_indentation * 11.5));
+	}
 } else
 {
 	//draw_sprite(spr_GuiMan, 1, (gui_indentation * 1.5), (gui_indentation * 1.5));
@@ -43,11 +48,16 @@ draw_rectangle_color((gui_indentation * 3) + edge, (gui_indentation * 16) + edge
 if obj_MainPlayerController.isManControlled
 {
 	//draw_sprite(spr_GuiWoman, 1, (gui_indentation * 30.5), (gui_indentation * 1.5));
-	draw_sprite(spr_GuiWoman, 1, (gui_indentation * 29.5), (gui_indentation * 11.5));
+	draw_sprite(spr_GuiWoman, 1, (gui_indentation * 29.5), (gui_indentation * 11.5));	
 } else
 {
 	//draw_sprite(spr_GuiWoman, 2, (gui_indentation * 30.5), (gui_indentation * 1.5));
-	draw_sprite(spr_GuiWoman, 2, (gui_indentation * 29.5), (gui_indentation * 11.5));
+	draw_sprite(spr_GuiWoman, 0, (gui_indentation * 29.5), (gui_indentation * 11.5));
+	
+	if obj_PlayerMan.sanityLevel <= 15
+	{
+		draw_sprite(spr_Encourage, 0, (gui_indentation * 27.5), (gui_indentation * 11.5));
+	}
 }
 
 // Sanity

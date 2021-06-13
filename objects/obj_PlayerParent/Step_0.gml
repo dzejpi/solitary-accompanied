@@ -122,7 +122,7 @@ if sanityLevel > 0
 		sanityLevel = 100;
 	} else
 	{
-		sanityLevel -= 0.005;
+		sanityLevel -= 0.02;
 	}
 }
 

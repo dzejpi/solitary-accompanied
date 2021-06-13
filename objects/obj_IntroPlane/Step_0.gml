@@ -28,4 +28,9 @@ if abs(image_angle) > 37
 	sprite_index = spr_PlaneFallingApart;
 	
 	hspeed = -4;
+	if !restartSpawned
+	{
+		instance_create_depth(0, 0, 0, obj_RoomRestart);
+		restartSpawned = true;
+	}
 }

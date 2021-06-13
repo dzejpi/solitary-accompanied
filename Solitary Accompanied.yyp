@@ -39,6 +39,7 @@
     {"id":{"name":"obj_GameStarter","path":"objects/obj_GameStarter/obj_GameStarter.yy",},"order":0,},
     {"id":{"name":"spr_WalkingGroundThree","path":"sprites/spr_WalkingGroundThree/spr_WalkingGroundThree.yy",},"order":4,},
     {"id":{"name":"obj_PlayerWoman","path":"objects/obj_PlayerWoman/obj_PlayerWoman.yy",},"order":1,},
+    {"id":{"name":"obj_RoomRestart","path":"objects/obj_RoomRestart/obj_RoomRestart.yy",},"order":3,},
     {"id":{"name":"obj_WalkingGroundFillOne","path":"objects/obj_WalkingGroundFillOne/obj_WalkingGroundFillOne.yy",},"order":2,},
     {"id":{"name":"spr_WalkingGroundFive","path":"sprites/spr_WalkingGroundFive/spr_WalkingGroundFive.yy",},"order":2,},
     {"id":{"name":"sound_GrabFromGround","path":"sounds/sound_GrabFromGround/sound_GrabFromGround.yy",},"order":1,},

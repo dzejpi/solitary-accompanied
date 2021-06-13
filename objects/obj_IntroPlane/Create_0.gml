@@ -15,3 +15,5 @@ skiddingUp = false;
 timeUntilControlRegained = 300;
 
 planeControllable = true;
+
+restartSpawned = false;

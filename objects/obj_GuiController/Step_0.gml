@@ -25,3 +25,31 @@ if tooltipCountdown > 0
 	tooltipCountdown = 0;
 	tooltip = "";
 }
+
+if isDialogPresent
+{
+	if dialogTimeout > 0
+	{
+		dialogTimeout -= 1;
+	} else
+	{
+		isDialogPresent = false;
+		dialogTimeout = 120;
+	}
+}
+
+if gameTipAutoDisable
+{
+	if gameTipTimeout > 0
+	{
+		gameTipEnabled = true;
+		gameTipTimeout -= 1;
+	} else
+	{
+		gameTipTimeout = 320;
+		gameTipEnabled = false;
+		gameTipAutoDisable = false;
+		obj_GameTipController.activeTooltip += 1;
+	}
+}
+

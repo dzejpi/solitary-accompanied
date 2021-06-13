@@ -89,6 +89,7 @@
     {"id":{"name":"spr_ManEating","path":"sprites/spr_ManEating/spr_ManEating.yy",},"order":6,},
     {"id":{"name":"obj_RoomStart","path":"objects/obj_RoomStart/obj_RoomStart.yy",},"order":0,},
     {"id":{"name":"spr_PlantColocynthis","path":"sprites/spr_PlantColocynthis/spr_PlantColocynthis.yy",},"order":0,},
+    {"id":{"name":"obj_GameTipController","path":"objects/obj_GameTipController/obj_GameTipController.yy",},"order":3,},
     {"id":{"name":"obj_PlayerMan","path":"objects/obj_PlayerMan/obj_PlayerMan.yy",},"order":0,},
     {"id":{"name":"spr_PlaneParachutingWoman","path":"sprites/spr_PlaneParachutingWoman/spr_PlaneParachutingWoman.yy",},"order":7,},
     {"id":{"name":"spr_KeyboardHelpedDown","path":"sprites/spr_KeyboardHelpedDown/spr_KeyboardHelpedDown.yy",},"order":4,},

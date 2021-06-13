@@ -1,4 +1,6 @@
 /// @description Draw GUI
+display_set_gui_size(640, 360);
+
 // Alignments
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);

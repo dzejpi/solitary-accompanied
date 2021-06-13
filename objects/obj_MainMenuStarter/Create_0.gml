@@ -11,3 +11,5 @@ instance_create_depth(positionX, positionY + (spaceBetweenButtons * 0), 0, obj_M
 instance_create_depth(positionX, positionY + (spaceBetweenButtons * 1), 0, obj_MenuButtonMusic);
 instance_create_depth(positionX, positionY + (spaceBetweenButtons * 2), 0, obj_MenuButtonSound);
 instance_create_depth(positionX, positionY + (spaceBetweenButtons * 3), 0, obj_MenuButtonQuit);
+
+display_set_gui_size(640, 360);

@@ -33,6 +33,7 @@
     {"id":{"name":"obj_WalkingGroundTwo","path":"objects/obj_WalkingGroundTwo/obj_WalkingGroundTwo.yy",},"order":4,},
     {"id":{"name":"spr_PlantOpuntia","path":"sprites/spr_PlantOpuntia/spr_PlantOpuntia.yy",},"order":1,},
     {"id":{"name":"room_Intro","path":"rooms/room_Intro/room_Intro.yy",},"order":4,},
+    {"id":{"name":"spr_GameClouds","path":"sprites/spr_GameClouds/spr_GameClouds.yy",},"order":1,},
     {"id":{"name":"obj_MenuButtonMusic","path":"objects/obj_MenuButtonMusic/obj_MenuButtonMusic.yy",},"order":3,},
     {"id":{"name":"spr_FruitOpuntia","path":"sprites/spr_FruitOpuntia/spr_FruitOpuntia.yy",},"order":1,},
     {"id":{"name":"obj_WalkingSurfaceParent","path":"objects/obj_WalkingSurfaceParent/obj_WalkingSurfaceParent.yy",},"order":0,},

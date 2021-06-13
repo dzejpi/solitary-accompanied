@@ -4,4 +4,4 @@ buttonText = "Start Game";
 
 gameStarted = false;
 // Delete when game implemented
-//room_goto(room_Credits);
+room_goto(room_Game);

@@ -156,7 +156,7 @@ if currentlyDrinking
 
 if sanityLevel > 0
 {
-	if sanityLevel >= 100
+	if sanityLevel > 100
 	{
 		sanityLevel = 100;
 	} else
@@ -179,13 +179,14 @@ if sanityLevel < 10
 	apathetic = false;
 }
 
-if thirstLevel >= 100
+if thirstLevel > 100
 {
 	thirstLevel = 100;
 }
 
 if thirstLevel <= 0
 {
+	thirstLevel = 0;
 	if !dead
 	{
 		dead = true;
@@ -203,11 +204,6 @@ if batteryLevel > 100
 } else
 {
 	batteryLevel -= 0.001;
-}
-
-if thirstLevel <= 0
-{
-	thirstLevel = 0;
 }
 
 if dead

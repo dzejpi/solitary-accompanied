@@ -151,7 +151,7 @@ if currentlyDrinking
 	}
 } else
 {
-	thirstLevel -= 0.005;
+	thirstLevel -= 0.0075;
 }
 
 if sanityLevel > 0
@@ -161,7 +161,7 @@ if sanityLevel > 0
 		sanityLevel = 100;
 	} else
 	{
-		sanityLevel -= 0.01;
+		sanityLevel -= 0.015;
 	}
 }
 

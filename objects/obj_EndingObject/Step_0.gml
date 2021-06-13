@@ -9,6 +9,9 @@ if !coupleFound
 		obj_PlayerMan.sanityLevel = 100;
 		obj_PlayerWoman.sanityLevel = 100;
 		
+		obj_PlayerMan.thirstLevel = 100;
+		obj_PlayerWoman.thirstLevel = 100;
+		
 		obj_GuiController.isDialogPresent = true;
 		obj_GuiController.isManTalking = true;
 		obj_GuiController.dialogText = "HEY! I SEE YOU!"

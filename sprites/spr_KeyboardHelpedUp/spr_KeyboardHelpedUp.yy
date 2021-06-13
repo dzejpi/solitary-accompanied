@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 4,
-  "bbox_right": 59,
-  "bbox_top": 4,
-  "bbox_bottom": 27,
+  "bbox_left": 2,
+  "bbox_right": 61,
+  "bbox_top": 3,
+  "bbox_bottom": 28,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"106170ae-f84e-4a3e-b555-2997573d4659","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"106170ae-f84e-4a3e-b555-2997573d4659","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"LayerId":{"name":"67d61068-2c69-4826-8270-50b2c9961796","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_KeyboardHelpedUp","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","name":"106170ae-f84e-4a3e-b555-2997573d4659","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d4477a59-5622-4d0f-8677-6aa33c7a2bd1","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d4477a59-5622-4d0f-8677-6aa33c7a2bd1","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"LayerId":{"name":"67d61068-2c69-4826-8270-50b2c9961796","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_KeyboardHelpedUp","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","name":"d4477a59-5622-4d0f-8677-6aa33c7a2bd1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"80eee895-0b8d-4565-b8be-07f16e157a93","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"80eee895-0b8d-4565-b8be-07f16e157a93","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"LayerId":{"name":"72a7b389-f08c-443b-b33e-8f1eac992d64","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_KeyboardHelpedUp","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","name":"80eee895-0b8d-4565-b8be-07f16e157a93","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7fda3aa7-2894-4d01-8150-db53c806a1bc","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7fda3aa7-2894-4d01-8150-db53c806a1bc","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"LayerId":{"name":"72a7b389-f08c-443b-b33e-8f1eac992d64","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_KeyboardHelpedUp","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","name":"7fda3aa7-2894-4d01-8150-db53c806a1bc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_KeyboardHelpedUp","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},
@@ -44,8 +44,8 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"01db0b55-bb15-4ab6-9b56-7a9011421e83","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"106170ae-f84e-4a3e-b555-2997573d4659","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"b8f95e51-26b6-41f1-bbed-87b57e272ec2","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d4477a59-5622-4d0f-8677-6aa33c7a2bd1","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"deecb55c-228e-4360-8e96-03cd9b3dd4ff","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"80eee895-0b8d-4565-b8be-07f16e157a93","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"47069894-d26d-4365-8eca-b2ba9e55acd4","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7fda3aa7-2894-4d01-8150-db53c806a1bc","path":"sprites/spr_KeyboardHelpedUp/spr_KeyboardHelpedUp.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -69,7 +69,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"67d61068-2c69-4826-8270-50b2c9961796","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"72a7b389-f08c-443b-b33e-8f1eac992d64","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

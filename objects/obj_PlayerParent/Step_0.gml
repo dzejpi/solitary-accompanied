@@ -133,11 +133,11 @@ if currentlyDrinking
 	if drinkingTime > 0
 	{
 		drinkingTime -= 1;
+		sanityLevel += 0.3;
 		
 		if thirstLevel < 100
 		{
 			thirstLevel += 0.5;
-			sanityLevel += 0.2;
 		} else
 		{
 			thirstLevel = 100;
@@ -151,7 +151,7 @@ if currentlyDrinking
 	}
 } else
 {
-	thirstLevel -= 0.01;
+	thirstLevel -= 0.005;
 }
 
 if sanityLevel > 0
@@ -161,7 +161,7 @@ if sanityLevel > 0
 		sanityLevel = 100;
 	} else
 	{
-		sanityLevel -= 0.02;
+		sanityLevel -= 0.01;
 	}
 }
 

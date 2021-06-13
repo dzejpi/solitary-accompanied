@@ -1,5 +1,5 @@
 /// @description Control behavior
-if isControllable && !dead
+if isControllable && !dead && !apathetic
 {
 	if (keyboard_check(vk_left) || keyboard_check(ord("A")))
 	{
@@ -163,6 +163,16 @@ if sanityLevel > 0
 	{
 		sanityLevel -= 0.02;
 	}
+}
+
+if sanityLevel < 10
+{
+	hspeed = 0;
+	apathetic = true;
+	sprite_index = apatheticAnimation;
+} else
+{
+	apathetic = false;
 }
 
 if thirstLevel >= 100

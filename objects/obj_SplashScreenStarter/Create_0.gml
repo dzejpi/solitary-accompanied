@@ -5,6 +5,6 @@ displayingSplash = true;
 displayedSplash = false;
 alphaImage = 0.00;
 
-splashSpeed = 0.01;
+splashSpeed = 0.02;
 
 display_set_gui_size(640, 360);

@@ -35,3 +35,17 @@ if switchCooldown > 0
 {
 	switchCooldown -= 1;
 }
+
+if obj_PlayerMan.dead
+{
+	isManControlled = true;
+	obj_PlayerWoman.isControllable = false;		
+	obj_PlayerFollowingObject.isFollowingMan = true;
+}
+
+if obj_PlayerWoman.dead
+{
+	isManControlled = false;
+	obj_PlayerMan.isControllable = false;			
+	obj_PlayerFollowingObject.isFollowingMan = false;
+}

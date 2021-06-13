@@ -12,9 +12,9 @@ dead = false;
 
 walkingSpeed = 1;
 
-thirstLevel = 100;
-batteryLevel = 75;
-sanityLevel = 50;
+thirstLevel = 75;
+batteryLevel = 90;
+sanityLevel = 75;
 
 currentlyDrinking = false;
 drinkingTime = 100;

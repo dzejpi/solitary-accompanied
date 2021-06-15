@@ -1,4 +1,4 @@
-# solitary-accompanied
+# Solitary Accompanied
 This is my game made for GMTK Game Jam 2021. Everything was created by me in 48 hours (apart from the font). Couple gets separated and lost in the desert after their anniversary sightseeing flight ends abruptly due to the plane malfunction. Can they find each other again or will they perish in the desert? That is up to you!
 
 ## Where to play
